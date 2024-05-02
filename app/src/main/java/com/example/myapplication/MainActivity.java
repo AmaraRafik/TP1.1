@@ -1,5 +1,6 @@
 package com.example.myapplication;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
@@ -15,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         LinearLayout layout = new LinearLayout(this);
         layout.setOrientation(LinearLayout.VERTICAL);
-        layout.setPadding(16, 16, 16, 16);
+        layout.setPadding(20, 20, 20, 20);
 
         TextView labelFirstName = new TextView(this);
         labelFirstName.setText("Prénom");
@@ -56,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button submitButton = new Button(this);
         submitButton.setText("Valider");
+        submitButton.setBackgroundColor(Color.rgb(1,56,53));
         layout.addView(submitButton);
 
         setContentView(layout);
