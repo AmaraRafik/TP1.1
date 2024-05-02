@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         LinearLayout layout = new LinearLayout(this);
         layout.setOrientation(LinearLayout.VERTICAL);
-        layout.setPadding(16, 16, 16, 16);
+        layout.setPadding(20, 20, 20, 20);
 
         TextView labelFirstName = new TextView(this);
         labelFirstName.setText("Prénom");
