@@ -20,4 +20,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "My Application"
-include(":app")
+include(":tp1")
+include(":traintimetables")
+include(":agenda")
+include(":agenda:agenda")

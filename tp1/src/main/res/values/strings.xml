@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NOVA</string>
+    <string name="cd_flag_france">drapeau français</string>
+    <string name="cd_flag_uk">drapeau anglais</string>
+    <string name="labelFirstName">Prénom</string>
+    <string name="labelLastName">Nom</string>
+    <string name="labelAge">Âge</string>
+    <string name="labelSkill">Domaine de compétence </string>
+    <string name="labelPhone">Numéro de téléphone</string>
+    <string name="submitButton">Valider</string>
+    <string name="boxConfirmationTitle">Confirmation</string>
+    <string name="boxConfirmationText">Voulez-vous vraiment soumettre ces informations ?</string>
+    <string name="undo">Annuler</string>
+    <string name="confirm">Confirmer</string>
+    <string name="confirmation_message">Votre inscription est complétée avec succès.</string>
+    <string name="home_button">Acceuil</string>
+    <string name="call">Appeler</string>
+
+
+</resources>

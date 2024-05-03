@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NOVA</string>
+    <string name="cd_flag_france">French Flag</string>
+    <string name="cd_flag_uk">UK Flag</string>
+    <string name="labelFirstName">First Name</string>
+    <string name="labelLastName">Last Name</string>
+    <string name="labelAge">Age</string>
+    <string name="labelSkill">Skill</string>
+    <string name="labelPhone">Phone Number</string>
+    <string name="submitButton">Submit</string>
+    <string name="boxConfirmationTitle">Validation</string>
+    <string name="boxConfirmationText">Are you sure that you want to submit these informations?</string>
+    <string name="undo">Undo</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirmation_message">Your registration is successfully completed.</string>
+    <string name="home_button">Home</string>
+    <string name="call">Call</string>
+</resources>

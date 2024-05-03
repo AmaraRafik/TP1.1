@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#012624</color>
+    <color name="colorPrimaryDark">#013835</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="backgroundColor">#007872</color>
+    <color name="navigationBarColor">#012624</color>
+    <color name="statusBarColor">#000000</color>
+    <color name="submitButton">#013835</color>
+    <color name="confirmationGreen">#00b3aa</color>
+    <color name="errorRed">#004d49</color>
+</resources>
